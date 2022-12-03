@@ -1,5 +1,7 @@
 package com.stringproblems;
 
+//Q. Java Program to remove all white spaces from a given string.
+
 public class RemoveWhiteSpaces {
 
 	public static void main(String[] args) {
